@@ -1,2 +1,4 @@
 *.asp linguist-language=C#
 *.cer linguist-language=C#
+*.asa linguist-language=C#
+*.cdx linguist-language=C#
